@@ -1,5 +1,5 @@
 # Programming-for-everybody(Python)
- ##Assignments of Getting Started with Python by University of Michigan on Coursera.
+## Assignments of Getting Started with Python by University of Michigan on Coursera.
  
  Week One: Introduction - Why we program?
 
